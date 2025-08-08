@@ -67,7 +67,7 @@ Lexicon-based approach with sentiment scores ranging from **-5** to **+5** for e
 ## Contributors
 Thanks to the following people for their contributions:
 
-- [@username1](https://github.com/sitifatiharh)
+- [@sitifatiharh](https://github.com/sitifatiharh)
 
 ## Presentations
 
