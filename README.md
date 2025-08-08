@@ -64,10 +64,28 @@ Lexicon-based approach with sentiment scores ranging from **-5** to **+5** for e
 - Bi-LSTM significantly outperforms SVM, especially in detecting **neutral** sentiment (Recall: 96% vs 37%).
 - The bidirectional architecture and FastText embeddings allow Bi-LSTM to capture contextual meaning better than SVM.
 
-## Contributors
-Thanks to the following people for their contributions:
+## 👥 Contributors
 
-- [@sitifatiharh](https://github.com/sitifatiharh)
+Thanks to the following people for their contributions to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sitifatiharh">
+        <img src="https://avatars.githubusercontent.com/username1" width="100px;" alt=""/>
+        <br />
+        <sub><b>Siti Fatiha Rahmah</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username3">
+        <img src="https://avatars.githubusercontent.com/nabilaekasd" width="100px;" alt=""/>
+        <br />
+        <sub><b>Nabila Eka Syntia Dewi</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Presentations
 
